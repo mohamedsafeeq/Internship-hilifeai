@@ -1,0 +1,99 @@
+body{
+    color: blueviolet;
+}
+.color1{
+    text-align: center;
+    color: rgb(24, 168, 132);
+}
+.color2{
+    color: rgb(141, 11, 130);
+}
+.pic{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+      margin-left: auto;
+      margin-right: auto;
+}
+.strong{
+    background-color: black;
+}
+.color3{
+    text-align: center;
+    color: aqua;
+}
+.color4{
+    text-align: center;
+    color: blueviolet;
+}
+.color5{
+    color: rgb(2, 241, 34);
+}
+.color6{
+    color: rgb(139, 8, 107);
+}
+.pic2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.color7{
+    color: aqua;
+}
+.color8{
+    color: blueviolet;
+}
+.pic3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.color9{
+    color:aquamarine;
+}
+.color10{
+    color: rgb(139, 8, 107);
+}
+.pic4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.color11{
+    color: rgb(2, 241, 34);
+}
+.color12{
+    color: blueviolet;
+}
+.pic5{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.color13{
+     color: aqua;
+}
+.color14{
+      color:  rgb(139, 8, 107);
+}
+.pic6{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
